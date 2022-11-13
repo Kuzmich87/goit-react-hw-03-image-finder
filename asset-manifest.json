@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kuzmich87/goit-react-hw-03-image-finder.git/static/css/main.33a119a4.css",
+    "main.js": "/Kuzmich87/goit-react-hw-03-image-finder.git/static/js/main.6cc6575c.js",
+    "index.html": "/Kuzmich87/goit-react-hw-03-image-finder.git/index.html",
+    "main.33a119a4.css.map": "/Kuzmich87/goit-react-hw-03-image-finder.git/static/css/main.33a119a4.css.map",
+    "main.6cc6575c.js.map": "/Kuzmich87/goit-react-hw-03-image-finder.git/static/js/main.6cc6575c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a119a4.css",
+    "static/js/main.6cc6575c.js"
+  ]
+}
