@@ -5,7 +5,7 @@ export const LoadMore = styled.button`
   margin: 0 auto 16px;
   padding: 8px 16px;
   color: #ffffff;
-  background-color: #3f51b5;
+  background-color: #FFA500;
   font-family: inherit;
   font-size: 18px;
   line-height: 24px;
